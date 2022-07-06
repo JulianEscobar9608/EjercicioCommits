@@ -1,0 +1,25 @@
+
+.contenedor{
+
+    display: flex;
+    flex-direction: row;
+
+}
+.card-celulares{
+
+    background-color: aqua;
+    border-radius: 8px;
+    width: 25%;
+    margin: 0px 3%
+
+}
+
+.imagen{
+    width: 80%;
+    padding: 20px 10% 20px 10%;
+    border-radius: 8px;
+}
+
+body{
+    background-color: darkgoldenrod;
+}
