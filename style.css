@@ -6,7 +6,7 @@
 }
 :root {
     --color-primary: #4550b1;
-    --secondary-color: #d1bef4;
+    --secondary-color: #bed5f4;
 }
 
 body{
@@ -104,4 +104,8 @@ a{
 #category span{
     position: relative;
     top: 50%;
+}
+
+footer > div{
+    background-color: var(--secondary-color);
 }
